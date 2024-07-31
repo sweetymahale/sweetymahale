@@ -5,7 +5,7 @@
 
 I have experience and knowledge working with AWS, Azure, and Google Cloud. I worked on the cloud to make applications scalable and high-performance and manage costs dynamically.
 
-- 🔭 I’m currently working on the full-stack application.
+- 🔭 I’m currently working on developing the full-stack application.
 - 🌱 I’m currently learning AI/ML, Gen AI, LLM, Deep learning, Responsible AI
 - 💬 Ask me about Java, JavaScript, React, SQL/ No SQL DB
 - 📫 How to reach me: mahalesweety18@gmail.com
