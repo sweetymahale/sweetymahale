@@ -7,8 +7,6 @@ I have experience and knowledge working with AWS, Azure, and Google Cloud. I wor
 
 - 🔭 I’m currently working on the full-stack application.
 - 🌱 I’m currently learning AI/ML, Gen AI, LLM, Deep learning, Responsible AI
-- 👯 I’m looking to collaborate on AI/ML, Gen AI, LLM, Deep learning, Responsible AI
-- 🤔 I’m looking for help with building apps using AI/ML
-- 💬 Ask me about Java, React, SQL/ No SQL DB
+- 💬 Ask me about Java, JavaScript, React, SQL/ No SQL DB
 - 📫 How to reach me: mahalesweety18@gmail.com
 
